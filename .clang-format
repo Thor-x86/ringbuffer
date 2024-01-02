@@ -1,0 +1,12 @@
+BasedOnStyle: GNU
+UseTab: Always
+IndentWidth: 4
+TabWidth: 4
+BreakBeforeBraces: Linux
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: true
+ColumnLimit: 80
+AccessModifierOffset: -4
+NamespaceIndentation: All
+FixNamespaceComments: false
+IndentPPDirectives: BeforeHash

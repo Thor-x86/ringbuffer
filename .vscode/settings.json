@@ -1,0 +1,41 @@
+{
+	"editor.formatOnSave": true,
+	"editor.indentSize": "tabSize",
+	"editor.insertSpaces": false,
+	"cmake.buildDirectory": "${workspaceFolder}/.cmake",
+	"files.associations": {
+		"*.module": "php",
+		"*.h": "c",
+		"*.c": "c",
+		"*.hpp": "cpp",
+		"*.cpp": "cpp",
+		"chrono": "c",
+		"variant": "c"
+	},
+	"editor.rulers": [
+		80
+	],
+	"editor.tokenColorCustomizations": {
+		"textMateRules": [
+			{
+				"scope": "googletest.failed",
+				"settings": {
+					"foreground": "#f00"
+				}
+			},
+			{
+				"scope": "googletest.passed",
+				"settings": {
+					"foreground": "#0f0"
+				}
+			},
+			{
+				"scope": "googletest.run",
+				"settings": {
+					"foreground": "#0f0"
+				}
+			}
+		]
+	},
+	"gtest-adapter.supportLocation": true
+}

@@ -1,0 +1,6 @@
+[submodule "external/cmake-microchip"]
+	path = external/cmake-microchip
+	url = https://github.com/Elemecca/cmake-microchip.git
+[submodule "external/doxygen-awesome-css"]
+	path = external/doxygen-awesome-css
+	url = https://github.com/jothepro/doxygen-awesome-css.git
